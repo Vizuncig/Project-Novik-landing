@@ -426,12 +426,10 @@ h6 {
   font-size: 18px;
   line-height: 22px;
   /* identical to box height */
-  text-align: center;
-  border-top: 10px solid #070707;
-  border-bottom: 10px solid #070707;
-  border-left: 39.51px solid #070707;
-  border-right: 39.51px solid #070707;
+  height: 42px;
+  width: 180.49964904785156px;
   border-radius: 25px;
+  text-align: center;
 }
 
 .social {

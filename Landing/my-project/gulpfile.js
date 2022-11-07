@@ -1,5 +1,5 @@
 const { src, dest, watch, parallel, series } = require('gulp');
-const scss = require('gulp-sass');
+const scss = require('gulp-sass')(require('sass'));
 const concat = require('gulp-concat');
 const browserSync = require('browser-sync').create();
 const uglify = require('gulp-uglify-es').default;
@@ -52,9 +52,12 @@ function styles() {
          overrideBrowserslist: ['last 5 version'],
          grid: true
       }))
+
+
       .pipe(dest('app/css'))
       .pipe(browserSync.stream())
-}
+};
+
 
 function build() {
    return src([

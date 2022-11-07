@@ -110,7 +110,6 @@ h6 {
   margin: 0;
   padding: 0;
 }
-
 .navi__link.link__1 {
   display: block;
   height: 23.03px;
@@ -118,55 +117,51 @@ h6 {
   background-color: #ffffff;
   font-size: 18px;
   color: #070707;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 22px;
   margin: 32.99px 155.65px 31.92px 252.05px;
 }
-
 .navi__link.link__2 {
   display: block;
   width: 82.34px;
   height: 23.03px;
   background-color: #ffffff;
   color: #828282;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 22px;
   white-space: nowrap;
   margin: 33.05px 155.65px 31.86px 0px;
 }
-
 .navi__link.link__3 {
   display: block;
   width: 42.18px;
   height: 23.03px;
   background-color: #ffffff;
   color: #828282;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 22px;
   margin: 32.99px 154.64px 31.92px 0px;
 }
-
 .navi__link.link__4 {
   display: block;
   width: 72.3px;
   height: 14.02px;
   background-color: #ffffff;
   color: #828282;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 22px;
   margin: 32.05px 155.65px 41.87px 0px;
 }
-
 .navi__link.link__5 {
   display: block;
   width: 77.32px;
   height: 23.03px;
   background-color: #ffffff;
   color: #828282;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   line-height: 22px;
   margin: 33.05px auto 31.86px 0px;
@@ -191,7 +186,6 @@ h6 {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
-
 .header__main h1 {
   font-size: 47.3392px;
   line-height: 59px;
@@ -200,7 +194,6 @@ h6 {
       -ms-grid-row-align: center;
       align-self: center;
 }
-
 .header__main h2 {
   font-size: 18px;
   line-height: 22px;
@@ -209,7 +202,6 @@ h6 {
       -ms-grid-row-align: center;
       align-self: center;
 }
-
 .header__main button {
   font-size: 16px;
   line-height: 20px;
@@ -232,7 +224,6 @@ h6 {
   height: 506px;
   background-color: #F6F6F6;
 }
-
 .about__me h3 {
   font-size: 34px;
   line-height: 42px;
@@ -240,7 +231,6 @@ h6 {
   padding-top: 120.25px;
   padding-bottom: 17.69px;
 }
-
 .about__me p {
   font-size: 18px;
   line-height: 22px;
@@ -252,7 +242,6 @@ h6 {
   height: 610px;
   background-color: #FFFFFF;
 }
-
 .skills h4 {
   font-size: 34px;
   line-height: 42px;
@@ -260,7 +249,6 @@ h6 {
   padding-top: 91px;
   padding-bottom: 69.1px;
 }
-
 .skills .firstword {
   font-size: 18px;
   line-height: 22px;
@@ -281,13 +269,11 @@ h6 {
   line-height: 17px;
   text-align: center;
 }
-
 .skill__skill1 span.name {
   display: block;
   margin-top: 24.21px;
   margin-bottom: 40.41px;
 }
-
 .skill__skill1 span.stars {
   font-size: 26px;
   border-radius: 1px;
@@ -298,13 +284,11 @@ h6 {
   line-height: 17.33px;
   text-align: center;
 }
-
 .skill__skill2 span.name {
   display: block;
   margin-top: 23.03px;
   margin-bottom: 41.41px;
 }
-
 .skill__skill2 span.stars {
   font-size: 26px;
   border-radius: 1px;
@@ -315,13 +299,11 @@ h6 {
   line-height: 17.33px;
   text-align: center;
 }
-
 .skill__skill3 span.name {
   display: block;
   margin-top: 23.03px;
   margin-bottom: 41.41px;
 }
-
 .skill__skill3 span.stars {
   font-size: 26px;
   border-radius: 1px;
@@ -332,13 +314,11 @@ h6 {
   line-height: 17.33px;
   text-align: center;
 }
-
 .skill__skill4 span.name {
   display: block;
   margin-top: 23.58px;
   margin-bottom: 56.96px;
 }
-
 .skill__skill4 span.stars {
   font-size: 26px;
   border-radius: 1px;
@@ -348,7 +328,6 @@ h6 {
   background-color: #F6F6F6;
   height: 2253px;
 }
-
 .portfolio h5 {
   font-size: 34px;
   line-height: 42px;
@@ -356,15 +335,12 @@ h6 {
   padding-top: 112.93px;
   padding-bottom: 43px;
 }
-
 .portfolio p {
   text-align: center;
 }
-
 .portfolio .img__1 {
   padding-bottom: 44.88px;
 }
-
 .portfolio .text__1 {
   font-size: 18px;
   line-height: 22px;
@@ -372,11 +348,9 @@ h6 {
           text-decoration-line: underline;
   padding-bottom: 99.09px;
 }
-
 .portfolio .img__2 {
   padding-bottom: 44.89px;
 }
-
 .portfolio .text__2 {
   font-size: 18px;
   line-height: 22px;
@@ -384,11 +358,9 @@ h6 {
           text-decoration-line: underline;
   padding-bottom: 99.08px;
 }
-
 .portfolio .img__3 {
   padding-bottom: 45.09px;
 }
-
 .portfolio .text__3 {
   font-size: 18px;
   line-height: 22px;
@@ -419,7 +391,6 @@ h6 {
       -ms-flex-pack: center;
           justify-content: center;
 }
-
 .footer__send button {
   background-color: #070707;
   color: #FFFFFF;
@@ -427,7 +398,7 @@ h6 {
   line-height: 22px;
   /* identical to box height */
   height: 42px;
-  width: 180.49964904785156px;
+  width: 180.4996490479px;
   border-radius: 25px;
   text-align: center;
 }
